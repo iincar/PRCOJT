@@ -1,0 +1,15 @@
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\bin\Debug\Queueing System 0.1.exe.config
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\bin\Debug\Queueing System 0.1.exe
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\bin\Debug\Queueing System 0.1.pdb
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\bin\Debug\Queueing System 0.1.xml
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing System 0.1.vbprojAssemblyReference.cache
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing_System_0._1.Controller.resources
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing_System_0._1.Dashboard.resources
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing_System_0._1.frmLogin.resources
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing_System_0._1.Resources.resources
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing_System_0._1.Queue.resources
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing System 0.1.vbproj.GenerateResource.cache
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing System 0.1.vbproj.CoreCompileInputs.cache
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing System 0.1.exe
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing System 0.1.xml
+C:\Users\segit\source\repos\Queueing System 0.1\Queueing System 0.1\obj\Debug\Queueing System 0.1.pdb
